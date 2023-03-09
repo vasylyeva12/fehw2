@@ -27,4 +27,8 @@ table, tr,  td {
     font-weight: bold;
     text-align: center;
 }
+/* td {
+vertical-align: middle;
+} */
+
 
